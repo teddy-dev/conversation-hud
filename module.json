@@ -2,11 +2,11 @@
   "id": "conversation-hud",
   "title": "ConversationHUD",
   "description": "<p>A simple module that adds a nice HUD that display the portraits of all the characters present in a conversation.</p>",
-  "version": "#{VERSION}#",
+  "version": "6.0.1",
   "compatibility": {
     "minimum": "13",
     "verified": "13",
-    "maximum": "13"
+    "maximum": "14"
   },
   "authors": [
     {
@@ -65,9 +65,9 @@
     }
   ],
   "socket": true,
-  "url": "#{URL}#",
-  "manifest": "#{MANIFEST}#",
-  "download": "#{DOWNLOAD}#",
+  "url": "https://github.com/teddy-dev/conversation-hud",
+  "manifest": "https://raw.githubusercontent.com/teddy-dev/conversation-hud/refs/heads/main/module.json",
+  "download": "https://raw.githubusercontent.com/teddy-dev/conversation-hud/refs/heads/main/module.zip",
   "license": "https://github.com/CristianVasile23/conversation-hud/blob/main/LICENSE",
   "readme": "https://github.com/CristianVasile23/conversation-hud/blob/main/README.md",
   "media": [
